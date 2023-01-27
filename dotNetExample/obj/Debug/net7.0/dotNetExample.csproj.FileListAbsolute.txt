@@ -1,0 +1,15 @@
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\bin\Debug\net7.0\dotNetExample.exe
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\bin\Debug\net7.0\dotNetExample.deps.json
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\bin\Debug\net7.0\dotNetExample.runtimeconfig.json
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\bin\Debug\net7.0\dotNetExample.dll
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\bin\Debug\net7.0\dotNetExample.pdb
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\obj\Debug\net7.0\dotNetExample.csproj.AssemblyReference.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\obj\Debug\net7.0\dotNetExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\obj\Debug\net7.0\dotNetExample.AssemblyInfoInputs.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\obj\Debug\net7.0\dotNetExample.AssemblyInfo.cs
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\obj\Debug\net7.0\dotNetExample.csproj.CoreCompileInputs.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\obj\Debug\net7.0\dotNetExample.dll
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\obj\Debug\net7.0\refint\dotNetExample.dll
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\obj\Debug\net7.0\dotNetExample.pdb
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\obj\Debug\net7.0\dotNetExample.genruntimeconfig.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\dotNetExample\dotNetExample\obj\Debug\net7.0\ref\dotNetExample.dll
